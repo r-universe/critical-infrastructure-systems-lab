@@ -13,3 +13,8 @@
 	url = https://github.com/critical-infrastructure-systems-lab/mbr
 	shallow = true
 	registered = true
+[submodule "reservoir"]
+	path = reservoir
+	url = https://github.com/critical-infrastructure-systems-lab/reservoir
+	shallow = true
+	registered = true
