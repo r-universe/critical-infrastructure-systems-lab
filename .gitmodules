@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ldsr"]
-	path = ldsr
-	url = https://github.com/critical-infrastructure-systems-lab/ldsr
 [submodule "mbr"]
 	path = mbr
 	url = https://github.com/critical-infrastructure-systems-lab/mbr
